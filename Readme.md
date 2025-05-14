@@ -1,4 +1,4 @@
-#Kitman Labs Test Project
+# Kitman Labs Test Project
 
 Just giving a few notes on the project structure and what I focused on:
 
