@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		E10089762DD52CBC006BCA5B /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = E10089742DD52CB5006BCA5B /* Readme.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		E100893A2DD52C0B006BCA5B /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		E10089282DD52C09006BCA5B /* KitmanLabsTestProject.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = KitmanLabsTestProject.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E10089392DD52C0B006BCA5B /* KitmanLabsTestProjectTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KitmanLabsTestProjectTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E10089432DD52C0B006BCA5B /* KitmanLabsTestProjectUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = KitmanLabsTestProjectUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		E10089742DD52CB5006BCA5B /* Readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		E100891F2DD52C09006BCA5B = {
 			isa = PBXGroup;
 			children = (
+				E10089742DD52CB5006BCA5B /* Readme.md */,
 				E100892A2DD52C09006BCA5B /* KitmanLabsTestProject */,
 				E100893C2DD52C0B006BCA5B /* KitmanLabsTestProjectTests */,
 				E10089462DD52C0B006BCA5B /* KitmanLabsTestProjectUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E10089762DD52CBC006BCA5B /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
